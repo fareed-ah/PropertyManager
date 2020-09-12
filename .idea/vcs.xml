@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidTutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CULearnApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyGrades/MyGrades" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Shopify/ShopifyFall2019" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Shopify/ShopifySummer2019" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Shopify/ShopifyWinter2020" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ShopifyMobile - Summer 2018" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/material-components-android-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shopify-winter-2018" vcs="Git" />
+  </component>
+</project>
